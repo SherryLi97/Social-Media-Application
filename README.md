@@ -2,6 +2,7 @@
 
 This social media application allows users to connect with each other through posts, likes and comments, and browse their newsfeed for recent activity.
 
+![image](https://user-images.githubusercontent.com/55163314/120428996-7e998d80-c329-11eb-936a-ebf71b2a3a51.png)
 
 ## Running the Application Locally
 
